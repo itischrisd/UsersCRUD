@@ -2,7 +2,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Users App</title>
+    <title>UsersCRUD</title>
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
@@ -23,7 +23,7 @@
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">Users App</div>
+                <div class="sidebar-brand-text mx-3">UsersCRUD</div>
             </a>
         </li>
         <li>

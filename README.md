@@ -1,7 +1,7 @@
-# Users App - Zarządzanie użytkownikami w oparciu o prosty stack technologiczny
+# UsersCRUD - Zarządzanie użytkownikami w oparciu o prosty stack technologiczny
 
 ## Opis projektu
-Users App to aplikacja webowa do zarządzania użytkownikami, stworzona w oparciu o proste i bezpośrednie technologie: Servlety, JSP, JDBC oraz MySQL. Wybór takiego stacku technologicznego zamiast nowoczesnych frameworków, takich jak Spring czy Hibernate, był świadomym działaniem mającym na celu lepsze poznanie podstaw działania aplikacji internetowych w Javie, a także zaprezentowanie możliwego minimalizmu w implementacji prostej aplikacji CRUDowej. 
+UsersCRUD to aplikacja webowa do zarządzania użytkownikami, stworzona w oparciu o proste i bezpośrednie technologie: Servlety, JSP, JDBC oraz MySQL. Wybór takiego stacku technologicznego zamiast nowoczesnych frameworków, takich jak Spring czy Hibernate, był świadomym działaniem mającym na celu lepsze poznanie podstaw działania aplikacji internetowych w Javie, a także zaprezentowanie możliwego minimalizmu w implementacji prostej aplikacji CRUDowej. 
 
 Zamiast polegać na wyższym poziomie abstrakcji i rozbudowanych narzędziach, aplikacja korzysta z "gołych" servletów oraz bezpośrednich połączeń JDBC. Dzięki temu zyskujemy dokładne zrozumienie zachodzących procesów, w tym:
 
