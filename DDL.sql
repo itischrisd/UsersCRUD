@@ -1,5 +1,7 @@
 CREATE DATABASE IF NOT EXISTS `users_db`;
 
+USE users_db;
+
 CREATE TABLE users
 (
     id       INT AUTO_INCREMENT
