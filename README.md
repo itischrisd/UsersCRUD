@@ -1,4 +1,6 @@
-# UsersCRUD — Zarządzanie użytkownikami w oparciu o prosty stack technologiczny
+<h1 align="center">
+    UsersCRUD
+</h1>
 
 ## Opis projektu
 
